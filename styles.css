@@ -1,0 +1,42 @@
+/*HTML Tages*/
+
+body{
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+img{
+  border-radius: 20px;
+  max-width: 20%;
+  max-height: 20%;
+  }
+
+/*Class Tags*/
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.container{
+  background-color: hsl(0, 0%, 100%);
+}
+
+.improve{
+  color: hsl(218, 44%, 22%)
+  font-weight: 700;
+  margin: auto;
+  width: 19%;
+}
+
+.scan{
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  font-size: 12px;
+  margin: auto;
+  padding-top: 10px;
+  width: 19%;
+}
